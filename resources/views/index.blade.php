@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SalinWiki</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="{{asset('css/style.css')}}">
     <script src="https://kit.fontawesome.com/94d5043f77.js" crossorigin="anonymous"></script>
 </head>
 <body>
@@ -16,7 +16,8 @@
                     
                     <li><a href="">Dictionary</a></li>
                     <li><a href="">Contribute</a></li>
-                    <li><a href="">Log in or Sign up</a></li>
+                    <li><a href="{{ route('login') }}">Log in</a></li>
+                    <li><a href="{{ route('register') }}">Register</a></li>
                 </ul>
             </div>
         </nav>
