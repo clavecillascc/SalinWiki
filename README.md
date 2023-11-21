@@ -2,16 +2,18 @@
 ## Join us now by signing up for an account and contribute to our cause today! 
 ### COMPANY NAME: Kalimbahing Pating (Pink Shark)
 ### Contributors:
-  Christian Clavecillas
-  Sven Orville Mallari
-  Bernard Narceda
-  Irish Miguel Pulido
-  Emmanuel John Quiñones
+    Christian Clavecillas
+    Sven Orville Mallari
+    Bernard Narceda
+    Irish Miguel Pulido
+    Emmanuel John Quiñones
 
 ### PROJECT TITLE:
 SalinWiki
 ### PROJECT DESCRIPTION:
 SalinWiki is the best Wiki site for your translation needs between existing languages in the Philippines.
+### MISSION:
+Our mission is to ensure that every Filipino can engage in meaningful interactions without hindrance caused by differing languages. 
 
 ### PROJECT PREVIEW (MOCKUP)
 ### SalinWiki LOGIN WEBPAGE
@@ -30,8 +32,6 @@ SalinWiki is the best Wiki site for your translation needs between existing lang
 ...link...
 
 ### Help us break every language barrier, ONE Translation at a time!
-
-### Our mission is to ensure that every Filipino can engage in meaningful interactions without hindrance caused by differing languages. 
 #
-####![Pink Shark Icon](https://github.com/clavecillascc/SalinWiki/assets/104261996/513e46d1-b288-47e8-ad9b-cff42f98c998)
+![Pink Shark Icon](https://github.com/clavecillascc/SalinWiki/assets/104261996/513e46d1-b288-47e8-ad9b-cff42f98c998)
 © 2023 Kalimbahing Pating (Pink Shark). All Right Reserved.
