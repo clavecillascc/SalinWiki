@@ -14,8 +14,7 @@ SalinWiki
     SalinWiki is the best Wiki site for your translation needs between existing languages in the Philippines.
 ### MISSION:
     Our mission is to ensure that every Filipino can engage in meaningful interactions without hindrance caused by differing languages. 
-<br />
-<br />
+
 ### PROJECT PREVIEW (MOCKUP)
 #### SalinWiki LOGIN WEBPAGE
 ![SalinWiki Log in Webpage](https://github.com/clavecillascc/SalinWiki/assets/104261996/62b7f6e0-5738-46e6-b1ee-63d71db17c28)
@@ -34,5 +33,5 @@ SalinWiki
 
 ### Help us break every language barrier, ONE Translation at a time!
 #
-<img src="https://github.com/clavecillascc/SalinWiki/assets/104261996/513e46d1-b288-47e8-ad9b-cff42f98c998" width="75" height="75"> <br />
+<img src="https://github.com/clavecillascc/SalinWiki/assets/104261996/513e46d1-b288-47e8-ad9b-cff42f98c998" width="75" height="75"> 
 © 2023 Kalimbahing Pating (Pink Shark). All Right Reserved.
