@@ -33,5 +33,5 @@ Our mission is to ensure that every Filipino can engage in meaningful interactio
 
 ### Help us break every language barrier, ONE Translation at a time!
 #
-![Pink Shark Icon](https://github.com/clavecillascc/SalinWiki/assets/104261996/513e46d1-b288-47e8-ad9b-cff42f98c998)
+<img src="https://github.com/clavecillascc/SalinWiki/assets/104261996/513e46d1-b288-47e8-ad9b-cff42f98c998" width="100" height="100">
 © 2023 Kalimbahing Pating (Pink Shark). All Right Reserved.
