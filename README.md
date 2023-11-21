@@ -2,11 +2,11 @@
 
 ### COMPANY NAME: Kalimbahing Pating (Pink Shark)
 ### Contributors:
-    CC
-    SM
-    BN
-    IP
-    EQ
+    Christian Clavecillas
+    Sven Orville Mallari
+    Bernard Narceda
+    Irish Miguel Pulido
+    Emmanuel John Quiñones
 
 ### PROJECT TITLE:
     SalinWiki
@@ -35,4 +35,7 @@
 
 ### Join us now by signing up for an account and contribute to our cause today! 
 
+#
+#
+#
 © 2023 Kalimbahing Pating (Pink Shark)![Pink Shark Icon](https://github.com/clavecillascc/SalinWiki/assets/104261996/868ef676-ba4c-4eb9-85f0-371e0c3e5c6a). All Right Reserved.
