@@ -1,4 +1,6 @@
 <img src="https://github.com/clavecillascc/SalinWiki/assets/104261996/513e46d1-b288-47e8-ad9b-cff42f98c998" width="100" height="100">
+
+
 # SalinWiki
 ## Join us now by signing up for an account and contribute to our cause today! 
 ### COMPANY NAME: Kalimbahing Pating(Pink Shark) 
