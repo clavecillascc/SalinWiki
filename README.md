@@ -11,9 +11,9 @@
 ### PROJECT TITLE:
 SalinWiki
 ### PROJECT DESCRIPTION:
-SalinWiki is the best Wiki site for your translation needs between existing languages in the Philippines.
+    SalinWiki is the best Wiki site for your translation needs between existing languages in the Philippines.
 ### MISSION:
-Our mission is to ensure that every Filipino can engage in meaningful interactions without hindrance caused by differing languages. 
+    Our mission is to ensure that every Filipino can engage in meaningful interactions without hindrance caused by differing languages. 
 
 ### PROJECT PREVIEW (MOCKUP)
 #### SalinWiki LOGIN WEBPAGE
