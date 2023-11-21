@@ -16,13 +16,13 @@ SalinWiki is the best Wiki site for your translation needs between existing lang
 Our mission is to ensure that every Filipino can engage in meaningful interactions without hindrance caused by differing languages. 
 
 ### PROJECT PREVIEW (MOCKUP)
-### SalinWiki LOGIN WEBPAGE
+#### SalinWiki LOGIN WEBPAGE
 ![SalinWiki Log in Webpage](https://github.com/clavecillascc/SalinWiki/assets/104261996/62b7f6e0-5738-46e6-b1ee-63d71db17c28)
 
-### SalinWiki SIGN UP WEBPAGE
+#### SalinWiki SIGN UP WEBPAGE
 ![SalinWiki Sign up Webpage](https://github.com/clavecillascc/SalinWiki/assets/104261996/1da2efa2-85b8-4172-92b0-2d693e25d92c)
 
-### SalinWiki HOMEPAGE 
+#### SalinWiki HOMEPAGE 
 ![SalinWiki Homepage](https://github.com/clavecillascc/SalinWiki/assets/104261996/0cea3f26-0c6e-4c39-a902-6f48ac07c656)
 
 ##### USER MANUAL
