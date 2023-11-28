@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SalinWiki</title>
-    <link rel="stylesheet" href="style.css">
     <script src="https://kit.fontawesome.com/94d5043f77.js" crossorigin="anonymous"></script>
     @vite('resources/css/app.css')
 </head>
@@ -29,7 +28,7 @@
     }
 
     .header {
-        min-height: 100vh;
+        /* min-height: 100vh; */
         width: 100%;
         background-color: #201b15;
         display: flex;
@@ -55,6 +54,7 @@
 
     .nav-links {
         /* flex: 1; */
+        width: 100%;
         text-align: right;
     }
 
@@ -86,24 +86,24 @@
     }
 
     .body-logo {
-        margin-top: 300px;
+        /* margin-top: 300px; */
         margin-left: auto;
         margin-right: auto;
         width: 200px;
     }
 
     .text-box {
-        width: 90%;
+        width: 100%;
         color: black;
         /* position: absolute; */
-        /* top: 30%; */
-        /* left: 50%; */
+        top: 30%;
+        left: 50%;
         /* transform: translate(-50%, -50%); */
         text-align: center;
     }
 
     .text-box h1 {
-        margin-top: 20px;
+        /* margin-top: 20px; */
         font-size: 125px;
         font-family: Quiapo;
         color: #efe1ba;
@@ -131,7 +131,7 @@
     .search-box {
         height: 50px;
         width: 600px;
-        margin: 650px auto 0;
+        margin: 20px auto 0;
         border-bottom: 3px solid #d79922;
     }
 
@@ -196,18 +196,21 @@
 
 <body>
     <section class="header font-primary">
-        <a class="bg-red-500" href="index.html"><img src="../images/SalinWiki logo large logotype.png" class="header-logo"></a>
-        <div class="nav-links bg-cyan-500">
-            <ul>
-                <li><a href="{{ route('login') }}">Login</a></li>
-                <li><a href="{{ route('register') }}">Register</a></li>
-                <li><a href="#">Dictionary</a></li>
-                <li><a href="#">Contribute</a></li>
-            </ul>
+        <div class="flex flex-row m-5">
+            <div>
+                <a href="index.html"><img src="../images/SalinWiki logo large logotype.png" class="header-logo"></a>
+            </div>
+            <div class="nav-links content-center">
+                <ul>
+                    <li><a href="#">Dictionary</a></li>
+                    <li><a href="#">Contribute</a></li>
+                    <li><a href="{{ route('login') }}">Login</a></li>
+                    <li><a href="{{ route('register') }}">Register</a></li>
+                </ul>
+            </div>
         </div>
 
-
-        <div class="text-box bg-red-500">
+        <div class="text-box">
             <img src="../images/SalinWiki Logo.png" class="body-logo">
             <h1>THE BEST WAY TO LEARN<br>PHILIPPINE LANGUAGES</h1>
             <span id="one">Salin</span><span id="two">Wiki is the best Wiki site for your translation needs
@@ -215,27 +218,30 @@
             <p id="three">Want to look up for a word?</p>
         </div>
 
-        <div class="search-box">
-            <div class="row">
-                <input type="text" id="input-box" placeholder="Search here!" autocomplete="off">
-                <button><i class="fa-solid fa-magnifying-glass"></i></button>
-            </div>
-            <div class="result-box">
-                <ul>
-                    <li></li>
-                </ul>
-            </div>
+        <div class="">
+            <div class="search-box">
+                <div class="row">
+                    <input type="text" id="input-box" placeholder="Search here!" autocomplete="off">
+                    <button><i class="fa-solid fa-magnifying-glass"></i></button>
 
+                </div>
+                <div class="result-box">
+                    <ul>
+                        <li>z</li>
+                    </ul>
+                </div>
+
+            </div>
         </div>
     </section>
 
-    <section class="body-one">
+    <!-- <section class="body-one">
 
     </section>
 
     <section class="body-two">
 
-    </section>
+    </section> -->
 </body>
 
 </html>
